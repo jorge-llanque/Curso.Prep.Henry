@@ -1,0 +1,14 @@
+VARIABLES
+Las variables funcionan como cajas, tu guardas cosas en las cajas y las llevas de un lugar a otro. Con las variables es muy similar, en ellas tu guardas datos de cualquier tipo y haces operaciones con ellas. Los usas en funciones, en argumentos, en operaciones matemáticas, en bucles, en condiciones, en resumen es la base para programar cualquier cosa.
+
+STRINGS
+Los strings son un tipo de dato en programación, sirven para escribir cadenas de texto y usarlos en variables, por lo general las cadenas de texto sirven para retornar un mensaje o una información textual, ya que no se pueden hacer operaciones matemáticas con cadenas de texto sino con números.
+
+FUNCIONES
+Las funciones son bloques de código que sirven para ejecutar una orden, como su nombre lo indica estos bloques de código cumplen un propósito específico, si tiene que hacer una suma la función sólo debe hacer una suma, si tiene que calcular una edad, entonces la función te pedirá la edad por argumento y te retornará la edad. Las funciones refactorizan código repetidos.
+
+DECLARACIONES IF
+Las condicionales sirven para evaluar una situación, sólo hay dos caminos verdadero o falso, o como entiende las máquinas true o false, cuando necesito hacer una comparación en mi código entonces uso las condicionales. Hay diferentes tipos de condicionales y estas evaluan una situación en específico.
+
+VALORES BOOLEANOS
+Los booleanos son true y false, a estos valores también se los conoce como banderas, porque son variables que sólo tienen dos estados o es verdad o no lo es. Y así podemos evaluar o asignar un valor booleanos a cualquier variable.
