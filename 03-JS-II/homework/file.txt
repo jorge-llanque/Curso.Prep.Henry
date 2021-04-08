@@ -1,0 +1,5 @@
+FOR
+For es un ciclo o bucle, en donde repetimos uno o varios bloques de código, el ciclo for sirve para resumir código innecesario o ineficiente. For tiene una sintaxis limpia ya que en una sóla línea de código se declara la variable iterador, el límite de iteraciones y la cantidad de saltos por iteración.
+
+&& || !
+Estos son operadores lógicos, && significa "y", || significa "o", ! significa "negación". Estos operadores lógicos los usamos cuando hacemos comparaciones de datos.

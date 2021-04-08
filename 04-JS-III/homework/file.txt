@@ -1,0 +1,2 @@
+ARRAYS
+Array es un tipo de dato no nativo de javascript. El arreglo es como una lista de elementos, allí podemos insertar elementos de todo tipo: números, cadenas de texto, booleanos, funciones y otros arreglos. Los arreglos nos sirven para manejar datos dentro de una sola variable, por eso se lo compara como una colección de datos. Un array tiene artísimos métodos y funciones, donde podemos transformar un array.
