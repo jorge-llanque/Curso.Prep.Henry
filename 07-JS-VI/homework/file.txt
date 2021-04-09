@@ -1,0 +1,2 @@
+FUNCIONES CALLBACK
+Las callback son funciones que se pasan por argumentos a otras funciones, osea es sabido que las funciones pueden o no tener argumentos, y estos argumentos pueden ser de tipo string, numbers, booleanos, etc, pero también se pueden pasar otras funciones, a estos se los denota como callback. 

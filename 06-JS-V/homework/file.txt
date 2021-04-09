@@ -1,0 +1,5 @@
+PROTOTYPE
+El prototype es un objeto que contiene métodos de cualquier objeto, es decir, el prototipo contiene todos los métodos nativos que podemos utilizar para usar arreglos, objetos, strings, numbers. Porque han sido establecidos por el creador del lenguaje.
+
+CONSTRUCTORS CLASES
+Las clases es una forma de programar, es propio del paradigma orientado a objetos, en programación todo debe ser un referente de la vida real, para ello se delimita funcionalidades a través de clases, así se puede optimizar código, tener un código más limpio y refactorizado. Ahora dentro de las clases existen muchas definiciones de conceptos como atributos, métodos, constructores, herencia, y ellos son importantes para crear clases robustas y escalables
