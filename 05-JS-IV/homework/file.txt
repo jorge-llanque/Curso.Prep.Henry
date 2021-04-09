@@ -1,0 +1,14 @@
+OBJETOS
+Un objeto es una forma de listar elementos, podemos listar distintos elementos de distintos tipos de datos al igual que en un array, pero los objetos tienen una particularidad, estos están ordenados de la forma (clave, valor), esto significa que cada elemento del objeto tiene una etiqueta única llamado propiedad, entonces cuando nosotros queremos invocar una propiedad del objeto basta con llamar a al objeto y la propiedad que lo representa a diferencia de un array, que se usa de referencia su posición dentro del array.
+
+PROPIEDADES
+Las propiedades de un objeto son su particularidad que los hace diferente a un array, estas propiedades son la representación del valor o el dato fuera del objeto, cuando nosotros queramos usar un valor específico del objeto no usaremos su posición como en un array, sino usaremos su propiedad.
+
+METODOS
+En un objeto se pueden guardar distintos tipos de datos, y también funciones, cuando una función forma parte de un objeto, este pasa a llamarse método, por lo general este método sirve para hacer operaciones con otras propiedades del objeto, y devuelve un resultado.
+
+FOR IN
+En muchas ocasiones vamos a necesitar recorrer un objeto para hacer operaciones o validaciones con las propiedades, existe un bucle específico para objetos que se llama for in, a través de este bucle nosotros indicamos el objeto que hará los ciclos y hacemos operaciones con sus propiedades.
+
+NOTACION
+Existe dos notaciones para llamar a las propiedades de los objetos los puntos y los corchetes, ambas son útiles y tienen un caso de uso para cada una, en cambio es más habitual y eficiente usar la notación con puntos.
