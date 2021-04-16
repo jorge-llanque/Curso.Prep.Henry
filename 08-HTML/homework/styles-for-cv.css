@@ -1,0 +1,160 @@
+@import url('https://fonts.googleapis.com/css2?family=Gayathri:wght@100&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+:root{
+    --primary-color: #1687a7;
+    --secondary-color: #f6f5f5;
+    --third-color: #276678;
+    --forth-color: #4a3931;
+    --fifth-color: #d3e0ea;
+}
+html {
+    font-size: 62.5%;
+    font-family: 'Gayathri', sans-serif;
+}
+body {
+    display: flex;
+    justify-content: center;
+}
+.container {
+    margin-top: 2rem;
+    background-color: var(--primary-color);
+    width: 68rem;
+    height: 90rem;
+    padding-top: 3rem;
+    padding-right: 3rem;
+    padding-left: 5rem;
+    padding-bottom: 3rem;
+    display: flex;
+    flex-direction: column;
+    
+}
+.header {
+    display: flex;
+    height: 15%;
+    position: relative;
+}
+
+h1, p{
+    color: var(--secondary-color);
+}
+.name-profile {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    width: 35rem;
+    position: absolute;
+    right: 10rem;
+    top: -12.5rem;
+}
+.name-profile h1 {
+    display: inline-block;
+    border: solid .3rem var(--third-color);
+    padding-top: 1rem;
+    padding-left: 3rem;
+    font-size: 3rem;
+    width: 35rem;
+}
+.name-profile p {
+    font-size: 1.7rem;
+    font-weight: bold;
+    margin-top: 1rem;
+}
+.main-container {
+    display: flex;
+    height: 85%;
+    position: relative;
+}
+.left-side {
+    width: 8rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    padding-top: 18rem;
+    padding-bottom: 3rem;
+}
+.left-side p {
+    font-size: 1.8rem;
+    letter-spacing: 0.25rem;
+    transform: rotate(-90deg);
+    bottom: 50px;
+}
+.right-side {
+    background-color: var(--secondary-color);
+    width: 92rem;
+    padding-top: 10rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    display: flex;
+}
+.box h2 {
+    color: var(--third-color);
+    font-size: 1.7rem;
+    margin-bottom: 1rem;
+    letter-spacing: 0.15rem;
+}
+.content-box {
+    padding-left: 1rem;
+}
+.content-box h3 {
+    font-size: 1.2rem;
+    letter-spacing: 0.15rem;
+    margin-bottom: 0.7rem;
+}
+.content-box h4 {
+    letter-spacing: 0.1rem;
+    color: var(--primary-color);
+    margin-bottom: 0.7rem;
+}
+.content-box ul {
+    padding-left: 1.3rem;
+    margin-bottom: 1.5rem;
+}
+.content-box ul li {
+    margin-top: 1rem;
+    font-weight: bold;
+}
+.right-column{
+   margin-top: 5rem;
+}
+.about-me {
+    background-color: var(--third-color);
+    position: absolute;
+    top: -2rem;
+    left: 30rem;
+    height: 12rem;
+    width: 28rem;
+    padding: 2rem;
+}
+
+.about-me h2 {
+    color: var(--primary-color);
+    margin-bottom: 1rem;
+}
+.about-me p {
+    color: var(--secondary-color);
+    font-size: 1.3rem;
+    text-align: justify;
+}
+
+h3 {
+    color: var(--forth-color);
+}
+li{
+    color: var(--fifth-color);
+}
+
+.photo-profile {
+    background-image: url("./image.jpeg");
+    background-size: 110%;
+    background-repeat: no-repeat;
+    background-position-x: -100%;
+    height: 20.5rem;
+    width: 18rem;
+    position: absolute;
+    top: -13rem;
+    left: 1rem;
+}
